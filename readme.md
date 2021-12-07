@@ -5,4 +5,4 @@
 [*] Write a HTML script to display following screen in figure
 ## Documentation
 
-[Live Solution](https://sandesh-at-git.github.io/WebTechAssn1-SetB-Que1/)
+[Live Solution](https://sandesh-at-git.github.io/WebTech-Assn1-SetB-Que1/)
